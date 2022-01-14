@@ -19,8 +19,6 @@ eCommerce sites so far.
 
 Like My Work?
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/lazar-vrancic/lazar-vrancic/master/gifs/coder.gif" />
-
 
 ### My Absolute Favorites:
 
@@ -47,6 +45,8 @@ Like My Work?
 	    <br />
 	</ul>	
 </details>
+
+<img align="center" height="250" width="375" alt="" src="https://raw.githubusercontent.com/lazar-vrancic/lazar-vrancic/master/gifs/coder.gif" />
 
 #
 
