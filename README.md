@@ -3,21 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/lazar-vrancic-)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://lazar-vrancic.web.app/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=lazar-vrancic.lazar-vrancic&style=flat-square&color=0088cc)
+### Glad to see you here!
 
-I am a full-stack developer having
-more than 8+ years of experience in
-building web and mobile
-applications.I'm a full-stack, polyglot developer
-who is constantly learning how to
-make web/hybrid apps faster,
-leaner, and perfectly designed. I
-have worked on +30 CMS, CRM,
-Mobile, Analysis, Blockchain,
-eCommerce sites so far.
+I am a software engineer and generalist, who is passionate about finding creative solutions to hard problems. As an engineer, I am a detail-oriented and fast-learning forward thinker with a proven track record of self-guided learning and development. As an individual, I value integrity, I am adaptable and I possess excellent communication skills—thriving when working independently or as a part of a team.<br><br>
 
+I have experience in full-stack and embedded systems development on customer-facing projects. I am most comfortable working in React and Vue but have previously been proficient in Angular as well. I am quick to learn new languages, tools or skills and am always eager to expand my knowledge and abilities when the opportunities arise.<br><br>
 
-Like My Work?
+Outside of work, my hobbies include mountain biking, photography, making/inventing and design. I am curious to no end and frequently find myself researching fascinating or obscure topics while also staying up-to-date on the latest tech, news and trends.<br>
 
 
 ### My Absolute Favorites:
